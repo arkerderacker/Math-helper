@@ -30,4 +30,3 @@ EXPOSE 4141
 
 CMD ["pnpm","dev"]
 
-Fix Rust toolchain for Scramjet build
