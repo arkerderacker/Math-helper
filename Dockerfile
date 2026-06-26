@@ -29,3 +29,5 @@ RUN cd packages/core && pnpm build
 EXPOSE 4141
 
 CMD ["pnpm","dev"]
+
+Fix Rust toolchain for Scramjet build
